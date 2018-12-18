@@ -1,6 +1,6 @@
 {
     "disableAutoUpdate": false,
     "servers": ["https://raw.githubusercontent.com/PsykoDev/op-zerker-unleash/master/"],
-    "name": "manifest-generator-master",
+    "name": "op-zerker-unleash",
     "description": "Description goes here."
 }
